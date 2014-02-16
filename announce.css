@@ -36,9 +36,15 @@ body {
   }
 }
 
-img {
+img#sono {
   display: block;
   width: 64em;
+  max-width: 100%;
+}
+
+img#registry {
+  float:right;
+  width: 2em;
   max-width: 100%;
 }
 
