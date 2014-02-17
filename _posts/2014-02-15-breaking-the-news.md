@@ -17,6 +17,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 <h5>Sonogram 1</h5>
 </div>
 </div>
+{::options parse_block_html="true" /}
 
 <div class="col-md-4">
 [![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png){: .thumbnail}
