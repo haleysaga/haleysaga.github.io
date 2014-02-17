@@ -1,3 +1,9 @@
 .vertical-push {
   margin-top: 3.125em;
 }
+
+img.thumbnail {
+  width: 6.25em;
+  height: 6.25em;
+  overflow: hidden;
+}
