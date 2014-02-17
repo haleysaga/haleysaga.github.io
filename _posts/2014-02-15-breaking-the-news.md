@@ -12,7 +12,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 
 <div class="row">
 
-div class="col-md-10 col-md-offset-1">
+<div class="col-md-10 col-md-offset-1">
 <div class="row">
 
 <div class="col-md-3 thumbnail" markdown="1">
