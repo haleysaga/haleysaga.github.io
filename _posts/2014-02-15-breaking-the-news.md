@@ -18,7 +18,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 </div>
 </div>
 
-<div class="col-md-4">
+<div class="col-md-4" markdown="1">
 [![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png){: .thumbnail}
 <div class="caption">
 <h5>Heartbeat</h5>
