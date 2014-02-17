@@ -20,7 +20,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 </div>
 </div>
 
-<div class="col-md-4 thumbnail" markdown="1">
+<div class="col-md-4 col-md-offset-4 thumbnail" markdown="1">
 [![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png)
 
 <div class="caption">
