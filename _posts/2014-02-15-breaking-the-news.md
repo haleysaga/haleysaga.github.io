@@ -11,16 +11,21 @@ This blog will serve as the repository for news, pictures, and information about
 Please feel free to contact either Kadi or myself in person for any additional information, but for quick updates, do check in frequently here. Thank you to friends and family for all the support we have received in the past, and from which our child will benefit in the future.
 
 <div class="row">
+
 <div class="col-md-4 thumbnail" markdown="1">
 [![Sonogram 1](static/img/letter_baby.png){: .img-responsive}](static/img/letter_baby.png)
+
 <div class="caption">
 <h5>Sonogram 1</h5>
 </div>
 </div>
 
-<div class="col-md-4" markdown="1">
-[![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png){: .thumbnail}
+<div class="col-md-4 thumbnail" markdown="1">
+[![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png)
+
 <div class="caption">
 <h5>Heartbeat</h5>
 </div>
+</div>
+
 </div>
