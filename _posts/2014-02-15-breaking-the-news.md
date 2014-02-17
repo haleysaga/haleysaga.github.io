@@ -12,7 +12,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 
 <div class="row">
 
-<div class="col-md-4 thumbnail" markdown="1">
+<div class="col-md-3 thumbnail" markdown="1">
 [![Sonogram 1](static/img/letter_baby.png){: .img-responsive}](static/img/letter_baby.png)
 
 <div class="caption">
@@ -20,7 +20,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 </div>
 </div>
 
-<div class="col-md-4 thumbnail" markdown="1">
+<div class="col-md-3 col-md-offset-1 thumbnail" markdown="1">
 [![Sonogram 2](static/img/baby_2.png){: .img-responsive}](static/img/baby_2.png)
 
 <div class="caption">
@@ -28,7 +28,7 @@ Please feel free to contact either Kadi or myself in person for any additional i
 </div>
 </div>
 
-<div class="col-md-4 thumbnail" markdown="1">
+<div class="col-md-3 col-md-offset-1 thumbnail" markdown="1">
 [![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png)
 
 <div class="caption">
