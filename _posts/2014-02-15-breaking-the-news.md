@@ -20,7 +20,15 @@ Please feel free to contact either Kadi or myself in person for any additional i
 </div>
 </div>
 
-<div class="col-md-4 col-md-offset-4 thumbnail" markdown="1">
+<div class="col-md-4 thumbnail" markdown="1">
+[![Sonogram 2](static/img/baby_2.png){: .img-responsive}](static/img/baby_2.png)
+
+<div class="caption">
+<h5>Sonogram 2</h5>
+</div>
+</div>
+
+<div class="col-md-4 thumbnail" markdown="1">
 [![Heartbeat](static/img/heartbeat.png){: .img-responsive}](static/img/heartbeat.png)
 
 <div class="caption">
