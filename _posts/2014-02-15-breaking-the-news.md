@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Breaking The News
-lead: So as you have probably guessed, Kadi and will be having a kid.
+lead: So as you have probably guessed, Kadi and I will be having a kid.
 ---
 
 <div class="well well-sm">
