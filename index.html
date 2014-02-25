@@ -1,31 +1,8 @@
-<!doctype html>
-<html>
+---
+layout: default
+title: Home
+---
 
-  <head>
-
-    <meta charset="UTF-8">
-    <title>The Haley Saga</title>
-    <link rel="stylesheet" href="static/css/announce.css" type="text/css" />
-    <link href='http://fonts.googleapis.com/css?family=Russo+One' rel='stylesheet' type='text/css'>
-
-  </head>
-
-  <body>
-
-    <section id="container" class="center">
-
-      <a href="home.html">
-      <img class="center" id="sono" src="static/img/letter_baby.png" />
-    </a>
-      <a href="home.html">
-      <h1 class="center">
-        Coming Soon<br />
-        August &#149; 2014
-      </h1>
-    </a>
-
-    </section>
-
-  </body>
-
-</html>
+{% for post in site.posts %}
+  {% include post.html %}
+{% endfor %}
