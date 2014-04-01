@@ -2,6 +2,7 @@
 layout: post
 title: Check-Up Check-In
 lead: So in the thirteenth week, baby and mother both get a check-up and initial blood work is reviewed.
+author: Dad
 ---
 
 And I am happy to report that both have come back with top marks. Blood work is clean, Kadi's vitals are good, and the baby is now big enough to hear with just the hand doppler. The heartbeat is strong at about 150 beats per minute.

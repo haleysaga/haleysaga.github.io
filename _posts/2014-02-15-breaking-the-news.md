@@ -2,6 +2,7 @@
 layout: post
 title: Breaking The News
 lead: So as you have probably guessed, Kadi and I will be having a kid.
+author: Dad
 ---
 
 <div class="well well-sm">
