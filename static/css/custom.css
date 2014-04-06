@@ -7,3 +7,8 @@ img.thumbnail {
   height: 6.25em;
   overflow: hidden;
 }
+
+img.small {
+  width: 100px;
+  height: 100px;
+}
