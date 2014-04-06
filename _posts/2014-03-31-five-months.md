@@ -19,7 +19,7 @@ Then a trip to the north country is scheduled for later in the month to visit so
 <div class="row">
 
 <div class="col-md-3 thumbnail" markdown="1">
-[![Side View](static/img/kadi_side_18_weeks.JPG){: .img-responsive}](static/img/kadi_side_18_weeks.JPG)
+[![Side View](/static/img/kadi_side_18_weeks.JPG){: .img-responsive}](/static/img/kadi_side_18_weeks.JPG)
 
 <div class="caption">
 <h5>Side View</h5>
@@ -27,7 +27,7 @@ Then a trip to the north country is scheduled for later in the month to visit so
 </div>
 
 <div class="col-md-3 col-md-offset-1 thumbnail" markdown="1">
-[![Mom's Best Angle](static/img/kadi_oblique_18_weeks.JPG){: .img-responsive}](static/img/kadi_oblique_18_weeks.JPG)
+[![Mom's Best Angle](/static/img/kadi_oblique_18_weeks.JPG){: .img-responsive}](/static/img/kadi_oblique_18_weeks.JPG)
 
 <div class="caption">
 <h5>Mom's Best Angle</h5>
